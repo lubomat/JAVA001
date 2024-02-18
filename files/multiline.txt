@@ -1,0 +1,5 @@
+Testowy łancuch znaków: 0
+Testowy łancuch znaków: 1
+Testowy łancuch znaków: 2
+Testowy łancuch znaków: 3
+Testowy łancuch znaków: 4
